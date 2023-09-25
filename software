@@ -1,0 +1,35 @@
+bspwm
+dunst
+mpv
+picom
+polybar
+sxhkd
+qbittorrent
+vscodium
+streamlink
+htop
+zathura
+xclip
+scrot
+remmina
+librewolf
+xrdp
+ufw
+pulseaudio
+ntfs-3g
+nitrogen
+ncspot
+mullvad-vpn
+gzip
+tar
+firefox-esr
+curl
+git
+bc
+alacritty
+
+.xinitrc 
+numlockkx &
+
+dirs
+Downloads, Pictures
