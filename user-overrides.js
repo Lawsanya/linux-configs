@@ -9,3 +9,4 @@ user_pref("extensions.screenshots.disabled", true);
 user_pref("devtools.accessibility.enabled", false);
 user_pref("browser.translations.enable", false);
 user_pref("identity.fxaccounts.enabled", false);
+user_pref("browser.sessionstore.resume_from_crash", false);
